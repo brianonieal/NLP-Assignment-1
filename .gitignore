@@ -1,0 +1,14 @@
+# environment / caches
+.cache/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# generated results (regenerate with: python main.py all)
+*.log
+*.err
+
+# OS
+Thumbs.db
+.DS_Store
+

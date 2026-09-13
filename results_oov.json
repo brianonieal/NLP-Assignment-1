@@ -1,0 +1,26 @@
+{
+  "glove-wiki-gigaword-50": {
+    "vocab": 400000,
+    "dim": 50,
+    "token_coverage": 0.974340377319623,
+    "type_coverage": 0.8978675065833635
+  },
+  "glove-wiki-gigaword-100": {
+    "vocab": 400000,
+    "dim": 100,
+    "token_coverage": 0.974340377319623,
+    "type_coverage": 0.8978675065833635
+  },
+  "glove-wiki-gigaword-300": {
+    "vocab": 400000,
+    "dim": 300,
+    "token_coverage": 0.974340377319623,
+    "type_coverage": 0.8978675065833635
+  },
+  "glove-twitter-100": {
+    "vocab": 1193514,
+    "dim": 100,
+    "token_coverage": 0.964521140542118,
+    "type_coverage": 0.8514483399597254
+  }
+}
